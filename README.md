@@ -2380,6 +2380,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [MobilityMCP](https://ai.projektionisten.eu/mcp-landingpage/#mmcp) `https://ai.projektionisten.eu/mmcp`
   [![MobilityMCP connector](https://glama.ai/mcp/connectors/eu.projektionisten/mobility/badges/score.svg)](https://glama.ai/mcp/connectors/eu.projektionisten/mobility)
   🔐 - German public transport: journeys, departures, disruptions, and nearby stops and sharing vehicles.
+- [My Next Adventure](https://mynextadventure.cloud/mcp?utm_source=awesome-remote-mcp) `https://mcp.mynextadventure.cloud/mcp`
+  [![My Next Adventure MCP connector](https://glama.ai/mcp/connectors/cloud.mynextadventure/trip-planner/badges/score.svg)](https://glama.ai/mcp/connectors/cloud.mynextadventure/trip-planner)
+  🔐 - Trip planner your AI fills in: variants with costs side by side, stays, transport, events and share links.
 - [NC Wedding Guide](https://www.ncweddingguide.com) `https://www.ncweddingguide.com/mcp`
   [![NC Wedding Guide MCP connector](https://glama.ai/mcp/connectors/io.github.Sebastianrtj/nc-wedding-guide/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.Sebastianrtj/nc-wedding-guide)
   🔓 - Search North Carolina wedding venues and vendors, estimate costs, build budgets, and prepare vendor inquiries.
